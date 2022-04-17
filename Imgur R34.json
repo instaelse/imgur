@@ -1,0 +1,17 @@
+{
+  "title": "Imgur R34",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1650182684",
+      "groups": {
+        "Test": "/proxy/api/imgur/chapter/Ewr3ItC"
+      }
+    }
+  }
+}
